@@ -1,0 +1,16 @@
+  
+                                         SOFTWARE TESTING ASSIGNMENT 1 
+        
+    REQUIREMENTS:
+         
+
+       1-IT checks a vowel in an array.
+       2-IT checks the equality of two arrays.
+       3-It checks linear search functionality in an array.
+       4-it checks capital city .
+       5-it checks the sum of a array.
+       6-it checks nationality of a person.
+       7-it checks best football player.
+       8-it checks addition,subtraction 
+       9-it checks multiplication of two numbers.
+       10-it sorts the array.
